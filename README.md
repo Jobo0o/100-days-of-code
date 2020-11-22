@@ -6,7 +6,7 @@ My Documentation of the 100 days of code challenge - started on November 19, 202
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](daily_log.md)
+* [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 

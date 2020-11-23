@@ -29,6 +29,11 @@ to start this now
 - I will continue with the stylings tomorrow
 
 ### Day 5 - 11-23-2020
+- started with the ES6 challenges in FreeCodeCamp
+- started editing CSS styling for the crossblocks website
+    - understanding @media query
+    
+### Day 6 - 11-24-2020
 - 
 
 

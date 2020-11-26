@@ -34,6 +34,17 @@ to start this now
     - understanding @media query
     
 ### Day 6 - 11-24-2020
+- continued the ES6 challenges and read about the implications
+- searched for useful Coding books to read on the side
+
+### Day 7 - 11-25-2020
+- spake about my progress with an expereinced web developer
+- explored some different CSS frameworks, since I am struggeling with structure in my CSS code
+    - BEM and other methods could help me to write my CSS Code in the future
+- finished the ES6 challenges and started with regular JS expressions
+- styled a navbar that is responsive and moves back when scrolling down a page
+
+### Day 8 - 11-26-2020
 - 
 
 

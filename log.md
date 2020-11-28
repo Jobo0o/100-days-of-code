@@ -53,6 +53,12 @@ to start this now
 - paused because of a full day and my wifes birthday
 
 ### Day 10 - 11-28-2020
+- finished the regular expressions challenges in FreeCodeCamp
+    - I think the last 50% of the challenges will not really help me writing my code..
+- CSS styling on the product landing page
+- found an interesting guide about the CSS flexbox
+
+### Day 11 - 11-29-2020
 - 
 
 

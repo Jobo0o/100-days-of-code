@@ -45,6 +45,14 @@ to start this now
 - styled a navbar that is responsive and moves back when scrolling down a page
 
 ### Day 8 - 11-26-2020
+- started & almost finished the Regular Expressions Challenge in FreeCodeCamp
+- completed 21 lessons
+- read about the Tailwind CSS framework aswell as the BEM
+
+### Day 9 - 11-27-2020
+- paused because of a full day and my wifes birthday
+
+### Day 10 - 11-28-2020
 - 
 
 

@@ -59,7 +59,15 @@ to start this now
 - found an interesting guide about the CSS flexbox
 
 ### Day 11 - 11-29-2020
-- 
+- finished the product landing page challenge on FCC
+- really not proud of my work here but I had to move on
+- I still learned a lot about when and how to use classes & IDs, aswell as how the felxbox is working
+- even though it looks super bad and shitty, it is still a very good learning
+https://codepen.io/jobo0o/pen/abmzRvv
+- I will rebuild it at some later point
+
+### Day 12 - 11-30-2020
+
 
 
 

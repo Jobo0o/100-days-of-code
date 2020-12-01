@@ -67,8 +67,12 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - I will rebuild it at some later point
 
 ### Day 12 - 11-30-2020
+- finished the Debugging challeneges in FCC
+- learned about the JS Console in the Browser
+- read in the documentation of CSS on Mozilla Web Developers
 
-
+### Day 13 - 12-01-2020
+- 
 
 
 

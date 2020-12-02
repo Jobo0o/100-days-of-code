@@ -62,7 +62,7 @@ to start this now
 - finished the product landing page challenge on FCC
 - really not proud of my work here but I had to move on
 - I still learned a lot about when and how to use classes & IDs, aswell as how the felxbox is working
-- even though it looks super bad and shitty, it is still a very good learning
+- even though it looks super bad and shitty, it is still a very good learning, progress is better than no progress at all
 https://codepen.io/jobo0o/pen/abmzRvv
 - I will rebuild it at some later point
 
@@ -72,7 +72,21 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - read in the documentation of CSS on Mozilla Web Developers
 
 ### Day 13 - 12-01-2020
+- started with the Basic Data Structures Challenges in FCC
+- learned about differece of object & array and how to use both in different cases
+- learned about push(), unshift(), etc. to manipulate arrays
+
+### Day 14 - 12-02-2020
+- finished the Basic Data Structures Challenges in FCC
+- learned about objects in JavaScript & how to use and manipulate them
+- also figured out that I am more and more comfortable with writing if statements and for loops
+- started with Basic Algorithm Scripting Challenges in FCC
+- those challenges will probably help me remember concept that I've seen before & apply them to real problems
+- started with the technical documentation page challenge for the HTML&CSS course: https://codepen.io/jobo0o/pen/ZEpbvPR
+
+### Day 15 - 12-03-2020
 - 
+
 
 
 

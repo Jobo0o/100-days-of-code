@@ -85,6 +85,17 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - started with the technical documentation page challenge for the HTML&CSS course: https://codepen.io/jobo0o/pen/ZEpbvPR
 
 ### Day 15 - 12-03-2020
+- finished the Technical documentation page challenge on FCC: https://codepen.io/jobo0o/pen/XWjmVGx
+- I am especially proud of the navbar animation, it took me quite some time to figure it out
+- But still I struggled with fixing the header on scroll
+- It is also the first time that I am using JavaScript in any project
+
+### Day 16 - 12-04-2020
+- My day was dedicated to a Raspberry pi projecty that fostered my understanding of the terminal and package management
+- initially wanted to setup a static DNS Server, but it was not really working
+- second project was the raspotify package to use the RPi as a Spotify connect device
+
+### Day 17 - 12-05-2020
 - 
 
 

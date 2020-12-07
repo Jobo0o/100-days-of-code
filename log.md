@@ -96,6 +96,14 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - second project was the raspotify package to use the RPi as a Spotify connect device
 
 ### Day 17 - 12-05-2020
+- did some challenges in the Algorithm Scripting Challenges in FCC
+- challenges are very extensive and take some time...
+
+### Day 18 ß 12-06-2020
+- same challenges as yesterday
+- prepared and read some documentation abput deckedGL to visualize data points
+
+### Day 19 - 12-07-2020
 - 
 
 

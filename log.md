@@ -104,6 +104,12 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - prepared and read some documentation abput deckedGL to visualize data points
 
 ### Day 19 - 12-07-2020
+- created my first Vue Application on my system
+- played around with tailwindcss
+- read a lot in the documentation about Vue and how to set up the Vue CLI
+- learned about the CSS preprocessors
+
+### Day 20 - 12-08-2020
 - 
 
 

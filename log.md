@@ -110,6 +110,16 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - learned about the CSS preprocessors
 
 ### Day 20 - 12-08-2020
+- continued with the Vue introduction on MDN (https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_first_component)
+- successfully debugged my first npm script (npm run serve) which was throwing an error after I accidentially deleted a property
+
+### Day 21 - 12-09-2020
+- completed the Responsive Webdesign Certificate at FCC (https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c7893/responsive-web-design)
+- did the last challenge a bit differently: I used the provided example of a Personal Portfolio and tried to twek it arounf so that it becomes my own page with my own design
+- I basically tried to use it just like a template
+- I continued with the Vue Tutorial on MDN
+
+### Day 22 - 12-10-2020
 - 
 
 

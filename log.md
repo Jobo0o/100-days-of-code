@@ -120,6 +120,10 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - I continued with the Vue Tutorial on MDN
 
 ### Day 22 - 12-10-2020
+- paused
+
+### Day 23 - 12-11-2020
+- continued with the challenges for object oriented programming to prepare for the VUE course on MDN
 - 
 
 

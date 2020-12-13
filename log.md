@@ -124,7 +124,13 @@ https://codepen.io/jobo0o/pen/abmzRvv
 
 ### Day 23 - 12-11-2020
 - continued with the challenges for object oriented programming to prepare for the VUE course on MDN
-- 
+- learned how objects can be used and why JavaScript is actually an object oriented programming language
+- also learned about the prototype order
+
+### Day 24 - 12-12-2020
+- learned how objects can be used and why JavaScript is actually an object oriented programming language
+- also learned about the prototype order
+
 
 
 

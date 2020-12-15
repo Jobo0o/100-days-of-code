@@ -131,6 +131,24 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - learned how objects can be used and why JavaScript is actually an object oriented programming language
 - also learned about the prototype order
 
+### Day 25 - 12-13-2020
+- continued with the Object Oriented Programming lessons
+- read about the functional programming approach
+- finished the Object Oriented Programming challenges in FCC
+- started the Functional Programming challenges
+
+### Day 26 - 12-14-2020
+- started the tourU project 
+- created Github organizations & installed all the nessecities for the upcoming project
+
+### Day 27 - 12-15-2020
+- create a Vue-Weather-App following a tutorial
+- had the first daily tourU metting to discuss Code
+- tried to publish the weather app to firebase but something went wrong
+- got to try it again tomorrow
+
+### Day 28 - 12-16-2020
+- 
 
 
 

@@ -148,7 +148,16 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - got to try it again tomorrow
 
 ### Day 28 - 12-16-2020
-- 
+- implemted hosting on Netlify for the weather app
+- played with the Vue UI to install different plugins
+
+### Day 29 - 12-17-2020
+- created another Vue Todo App
+- learned more about the different Vue components like v-bind
+- discovered vuetify as a framework that I will try tomorrow
+
+### Day 30 - 12-18-2020
+- installed vuetify and tried to add some UI compoents
 
 
 

@@ -159,7 +159,14 @@ https://codepen.io/jobo0o/pen/abmzRvv
 ### Day 30 - 12-18-2020
 - installed vuetify and tried to add some UI compoents
 
+### Day 31 - 12-19-2020
+- tried to add routing to the touru repository
+- implemented v-parallax as a scrollable background
+- added a autoplayed video as a background for the homepage
 
+### Day 32 - 12-20-20
+- added a new tutorial repo to understand how vuetify and firebase work together
+- 
 
 
 

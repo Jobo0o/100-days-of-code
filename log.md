@@ -166,6 +166,11 @@ https://codepen.io/jobo0o/pen/abmzRvv
 
 ### Day 32 - 12-20-20
 - added a new tutorial repo to understand how vuetify and firebase work together
+- I feel like I am always trying to build something new, but I always get stuck at the translation of my ideas into html/css & then to vuetify
+- maybe I should go nack to using vue only without vuetify
+
+### Day 33 - 12-21-2020
+- I now started a detailed tutorial to teach me vuetify
 - 
 
 

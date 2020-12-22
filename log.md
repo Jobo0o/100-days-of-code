@@ -171,7 +171,11 @@ https://codepen.io/jobo0o/pen/abmzRvv
 
 ### Day 33 - 12-21-2020
 - I now started a detailed tutorial to teach me vuetify
-- 
+- the Vuetify Tutorial by Net Ninja is perfect for learning how to use vuetify and Vue
+- following the tutorial got me a good feeling about my way for progress
+
+### Day 34 - 12-22-2020
+- continued with the Vuetify & Vue Tutorial from Net Ninja
 
 
 

@@ -176,6 +176,15 @@ https://codepen.io/jobo0o/pen/abmzRvv
 
 ### Day 34 - 12-22-2020
 - continued with the Vuetify & Vue Tutorial from Net Ninja
+- learned more about the Grid Szstem in Vuetify and applied it to a Dashboard View
+
+### Day 35 - 12-23-2020
+- added conditional classes to a chip component in Vuetify to display different colors, when the class is changing
+- used v-for to loop through data that I inserted before in order to display multiple items in a list
+
+### Day 36 - 12-27-2020
+- 
+
 
 
 

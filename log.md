@@ -183,7 +183,9 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - used v-for to loop through data that I inserted before in order to display multiple items in a list
 
 ### Day 36 - 12-27-2020
-- 
+- created tooltips that appear when hovering over a button
+- created buttons, that sort data on a click event
+- used v-card elements to create a team member homepage that is fully repsonsive using flexbox
 
 
 

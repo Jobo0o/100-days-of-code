@@ -187,6 +187,11 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - created buttons, that sort data on a click event
 - used v-card elements to create a team member homepage that is fully repsonsive using flexbox
 
+### Day 37 - 12-28-2020
+- continued with the functional programming exercises in FCC
+- continued with the basic algorithm challenges in FCC
 
+### Day 38 - 12-29-2020
+- 
 
 

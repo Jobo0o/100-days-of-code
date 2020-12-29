@@ -192,6 +192,9 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - continued with the basic algorithm challenges in FCC
 
 ### Day 38 - 12-29-2020
-- 
+- continued with the functional programming exercises in FCC
+
+### Day 39 - 12-30-2020
+
 
 

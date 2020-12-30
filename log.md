@@ -195,6 +195,11 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - continued with the functional programming exercises in FCC
 
 ### Day 39 - 12-30-2020
+- created a Navbar in Vue with Vuetify
+- used the vuetify Grid System to align items in the Navbar
+- applied different styling based on conditional classes
 
+### Day 40 - 12-31-2020
+- 
 
 

@@ -200,6 +200,10 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - applied different styling based on conditional classes
 
 ### Day 40 - 12-31-2020
-- 
+- finished the year with some algorithm scripting challenges in FCC
+- read about basic data strucutres on GeeksForGeeks
+
+### Daz 41 - 01-01-2021
+-
 
 

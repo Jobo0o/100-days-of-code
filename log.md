@@ -207,6 +207,11 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - paused
 
 ### Day 42 - 01-02-2021
+- did some algorithm challenges on FCC
+- read again about DataStructures in JavaScript
+- learned how the map() & forEach() function are working and when to use them
+
+### Day 43 - 01-03-2021
 - 
 
 

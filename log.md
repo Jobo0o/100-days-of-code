@@ -203,7 +203,10 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - finished the year with some algorithm scripting challenges in FCC
 - read about basic data strucutres on GeeksForGeeks
 
-### Daz 41 - 01-01-2021
--
+### Day 41 - 01-01-2021
+- paused
+
+### Day 42 - 01-02-2021
+- 
 
 

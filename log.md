@@ -212,6 +212,10 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - learned how the map() & forEach() function are working and when to use them
 
 ### Day 43 - 01-03-2021
-- 
+- added Vuetify expansion panels to my project and assigned them the repsective data through vue components
+- solved Basic alogirthm Challenges in FCC
+- understood the spread operator (...arr) for the first time
+
+
 
 

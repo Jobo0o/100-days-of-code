@@ -216,6 +216,9 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - solved Basic alogirthm Challenges in FCC
 - understood the spread operator (...arr) for the first time
 
-
+### Day 44 - 01-04-2021
+- added Firestore database functionality to an app to check & update the database
+- added snackbars and forms in vue js and pushed the info to the database
+- added loaders until a function was completly executed
 
 

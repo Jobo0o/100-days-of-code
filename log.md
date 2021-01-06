@@ -221,4 +221,13 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - added snackbars and forms in vue js and pushed the info to the database
 - added loaders until a function was completly executed
 
+### Day 45 - 01-05-2021
+- completed the basic alogithm challenegs on FCC
+- started with the intermediate alogithm challenges on FCC
+- figured out how to use vue & vuetify templates
+- looked for a future roadmap to contunie getting comfortable with vue
+- looked for design principles and how to learn them to design
+
+### Day 46 - 01-06-2021
+- 
 

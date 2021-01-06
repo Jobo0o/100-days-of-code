@@ -229,5 +229,14 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - looked for design principles and how to learn them to design
 
 ### Day 46 - 01-06-2021
+- created an appbar from scratch for a new project
+- defined my future learning roadmap in frontend and also partly backend dev
+- did some competitive programming challenges
+
+### Day 47 - 01-07-2021
 - 
+
+
+
+
 

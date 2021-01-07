@@ -234,6 +234,10 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - did some competitive programming challenges
 
 ### Day 47 - 01-07-2021
+- added a carousel & Footer to my project
+- did some FCC challenges
+
+### Day 49 - 01-08-2021
 - 
 
 

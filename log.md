@@ -238,6 +238,10 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - did some FCC challenges
 
 ### Day 49 - 01-08-2021
+- worked on a homepage and added several vuetify items to it
+- nearly the end of the JavaScript challenges in FCC
+
+### Day 50 - 01-09-2021
 - 
 
 

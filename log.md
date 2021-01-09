@@ -242,6 +242,9 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - nearly the end of the JavaScript challenges in FCC
 
 ### Day 50 - 01-09-2021
+- finally finished the JavaScript Algorithms & Data Structures Certification on FCC
+
+### Day 51 - 01-10-2021
 - 
 
 

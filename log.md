@@ -245,6 +245,11 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - finally finished the JavaScript Algorithms & Data Structures Certification on FCC
 
 ### Day 51 - 01-10-2021
+- started with a basic vue.js tutorial series to teach the basic vue elements and their functions
+- did challenges on HackerRank 
+- read in the HackerEarth documentation about data staructures
+
+### Day 52 - 01-11-2021
 - 
 
 

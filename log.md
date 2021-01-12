@@ -250,6 +250,11 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - read in the HackerEarth documentation about data staructures
 
 ### Day 52 - 01-11-2021
+- solved challenges on HackerRank
+- refreshed the behaviour of all different kinds of loops in JavaScript
+- read about how to integrate Django as a Backend and Vue.js as Frontend
+
+### Day 53 - 01-12-2021
 - 
 
 

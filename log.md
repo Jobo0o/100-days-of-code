@@ -243,6 +243,7 @@ https://codepen.io/jobo0o/pen/abmzRvv
 
 ### Day 50 - 01-09-2021
 - finally finished the JavaScript Algorithms & Data Structures Certification on FCC
+https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c7893/javascript-algorithms-and-data-structures
 
 ### Day 51 - 01-10-2021
 - started with a basic vue.js tutorial series to teach the basic vue elements and their functions

@@ -255,7 +255,22 @@ https://codepen.io/jobo0o/pen/abmzRvv
 - read about how to integrate Django as a Backend and Vue.js as Frontend
 
 ### Day 53 - 01-12-2021
-- 
+- started with the 10 days of JavaScript Challenges on HackerRank
+- trying to improve my JavaScript programming skills by regularly practicin g on HackerRank and HackerEarth
+- added a v-parallax element to the sample website that I am creating
+- next step is to add a conditional v-model that creates links based on a database
+
+### Day 54 - 01-13-2021
+- restrucutred my learning time: 
+    - Daily programming on HackerRank & HackerEarth before lunchtime
+    - to prepare for more difficult challenges, I will complete the tutorials "10 Days of JavaScript", "10 Days of Statistics" & "30 Days of Code" on HackerRank
+    - in the afternoon, I will step up my game with Vue Coding
+    - Goal 1: build a functional LandingPage using Vue with a functional backend and reliable hosting (until mid-Feb latest)
+    - Goal 2: try to build a Web-Application with more functionality using Vue (& maybe Django) (until mid-Mar)
+    - Goal 3: compete in a Hackerthon to learn from more experienced developers (until mid-Mar)
+- completed 10 Days of JavaScript challenges on HackerRank
+
+### Day 55 - 01-14-2021
 
 
 

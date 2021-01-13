@@ -50,7 +50,7 @@ to start this now
 - read about the Tailwind CSS framework aswell as the BEM
 
 ### Day 9 - 11-27-2020
-- paused because of a full day and my wifes birthday
+- paused
 
 ### Day 10 - 11-28-2020
 - finished the regular expressions challenges in FreeCodeCamp

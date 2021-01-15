@@ -273,7 +273,15 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - completed 10 Days of JavaScript challenges on HackerRank
 
 ### Day 55 - 01-14-2021
+- paused
 
+### Day 56 - 01-15-2021
+- solved challenges in 10 Days of JavaScript on HackerRank
+- refreshed arrow functions and how their syntax is working
+- learned how to use throw new Error() 
+
+### Day 57 - 01-16-2021
+- 
 
 
 

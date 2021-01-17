@@ -281,6 +281,15 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - learned how to use throw new Error() 
 
 ### Day 57 - 01-16-2021
+- solved challenges on HackerRank containing a repetition of classes & functions
+- set up the routes for the different pages in my vue projects & used v-for to display links based on a database
+- tried to style the Appbar a bit better, but without success
+
+### Day 58 - 01-17-2021
+- started a vue3 tutorial to better understand the behaviour of all the new features added to vue3
+- even though it was not added in vue3, I finally understood that v-on='click' === @click
+
+### Day 59 - 01-18-2021
 - 
 
 

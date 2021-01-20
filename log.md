@@ -301,7 +301,9 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 
 ### Day 61 - 01-20-2021
 - finished all 10 Days of JavaScript challenges on HackerRank
-- 
+- updated the pricing page on my web dev project
+- learned how to Update a favicon to display it in the browser
+- read the documentation about the quasar framework that allows to deploy to Web, iOS, Android, Windos, MacOS & Linux simultanoiously
 
 
 

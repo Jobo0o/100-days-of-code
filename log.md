@@ -290,6 +290,16 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - even though it was not added in vue3, I finally understood that v-on='click' === @click
 
 ### Day 59 - 01-18-2021
+- continued with a refresher of Vue 3
+- solved challenges on HackerRank
+- learned about the arrow functions in JavaScript
+
+### Day 60 - 01-19-2021
+- solved challenges on HackerRank
+- learned about RegEx in Javascript and how to use them
+- read in the Eloquent JavaScript Book
+
+### Day 61 - 01-20-2021
 - 
 
 

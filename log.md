@@ -300,6 +300,7 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - read in the Eloquent JavaScript Book
 
 ### Day 61 - 01-20-2021
+- finished all 10 Days of JavaScript challenges on HackerRank
 - 
 
 

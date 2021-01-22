@@ -306,5 +306,11 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - read the documentation about the quasar framework that allows to deploy to Web, iOS, Android, Windos, MacOS & Linux simultanoiously
 
 
+### Day 62 - 01-21-2021
+- completed challenges in the 30 Days of Code Challenges on HackerRank
+- completed challenges on CodeWars
+- learned how to substract two arrays from each other & return the difference
 
+### Day 63 - 01-22-2021
+- 
 

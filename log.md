@@ -312,5 +312,10 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - learned how to substract two arrays from each other & return the difference
 
 ### Day 63 - 01-22-2021
+- learned how to use v-slot to indicate a custom slot for a vue component
+- learned how to reuse the component created before and attached different classes for styling to it
+- learned how the new teleport fucntions work in Vue3
+
+### Day 64 - 01-23-2021
 - 
 

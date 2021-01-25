@@ -329,5 +329,11 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - Learned how Django is working for Web Dev and that CSS Frameworks exist also for this framework
 
 ### Day 66 - 01-25-2021
+- solved challenges on Codewars containing basic functions with calcualtions
+- created a reaction timer following a Vue3 Tutorial
+- learned how the component lifecycle in Vue is working
+- used the mounted() function to trigger certain events when a component is mounted to the DOM
+
+### Day 67 - 01-26-2021
 - 
 

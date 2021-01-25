@@ -317,5 +317,17 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - learned how the new teleport fucntions work in Vue3
 
 ### Day 64 - 01-23-2021
+- I changed platforms from HackerRank to Codewars due to the low support for JavaScript on HackerRank
+- did challenges on HackerRank to practice the synzax and problem solving
+- read in the Eloquent JavaScript Book
+
+### Day 65 - 01-24-2021
+- read in the Eloquent JavaScript Book
+- I searched a lot for information about tensorflow.js and its future capabilities
+- did Challenges on Codewars and learned best practices for the challenges I solved (My Codewars Profile: https://www.codewars.com/users/Jobo0o)
+- I learned about how to implement a ML Model created by Python & Tensorflow into a Vue Project via an API - I think about trying that
+- Learned how Django is working for Web Dev and that CSS Frameworks exist also for this framework
+
+### Day 66 - 01-25-2021
 - 
 

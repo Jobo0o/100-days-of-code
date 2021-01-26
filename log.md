@@ -335,5 +335,12 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - used the mounted() function to trigger certain events when a component is mounted to the DOM
 
 ### Day 67 - 01-26-2021
+- created a Signup form in Vue3 with basic form validation & v-model usage
+- continued the Deep Learning with tensorflow courese on Codecademy
+- learned how the backend is different from the frontend and why Node.js with express is the best choice for my future vue apps
+- I think I will use Python only inside an API to give deep learning data to the vue app itself, but let it run externally
+- still, I want to learn a bit more Python in order to cerate those ML Models with tensorflow
+
+### Day 68 - 01-26-2021
 - 
 

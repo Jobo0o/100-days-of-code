@@ -341,6 +341,20 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - I think I will use Python only inside an API to give deep learning data to the vue app itself, but let it run externally
 - still, I want to learn a bit more Python in order to cerate those ML Models with tensorflow
 
-### Day 68 - 01-26-2021
+### Day 68 - 01-27-2021
+- solved challenges on Codewars with JavaScript
+- prepared to contiue on the sample webiste
+- read a lot in the Vue documentation about routing 
+
+### Day 69 - 01-27-2021
+- continued to work on my first sample website with vue routig and vuetify
+- learned how to apply gradients to v-parallax & normal images
+- nested multiple components into a component 
+- implemented a timeline into the about page
+
+### Day 70 - 01-28-2021
 - 
+
+
+
 

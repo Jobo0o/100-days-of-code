@@ -346,13 +346,21 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - prepared to contiue on the sample webiste
 - read a lot in the Vue documentation about routing 
 
-### Day 69 - 01-27-2021
+### Day 69 - 01-28-2021
 - continued to work on my first sample website with vue routig and vuetify
 - learned how to apply gradients to v-parallax & normal images
 - nested multiple components into a component 
 - implemented a timeline into the about page
 
-### Day 70 - 01-28-2021
+### Day 70 - 01-29-2021
+- paused
+
+### Day 71 - 01-30-2021
+- solved alggorithm challenges on Codewars
+- continued to read Eloquent JavaScript
+- read in the Vue.js documentation about custom events and slots
+
+### Day 72 - 01-31-2021
 - 
 
 

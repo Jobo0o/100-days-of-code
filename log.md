@@ -361,6 +361,11 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - read in the Vue.js documentation about custom events and slots
 
 ### Day 72 - 01-31-2021
+- created a timeline element in my Vue project
+- read in the Eloquent JavaScript project
+- completed challenges on Codewars
+
+### Day 73 - 02-01-2021
 - 
 
 

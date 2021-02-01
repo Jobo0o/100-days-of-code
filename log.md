@@ -366,6 +366,11 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - completed challenges on Codewars
 
 ### Day 73 - 02-01-2021
+- used the vue router to redirect to a certain part of the web page
+- implemented a catchAll() function to throw the Error 404 page in case of a url not used
+- completed a challenge on Codewars containing a switch statenment inside a for loop
+
+### Day 74 - 02-02-2021
 - 
 
 

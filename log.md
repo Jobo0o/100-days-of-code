@@ -371,6 +371,16 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - completed a challenge on Codewars containing a switch statenment inside a for loop
 
 ### Day 74 - 02-02-2021
+- cintinued with a refresher of vue3
+- solved a challenge on codewars containing array sorting
+
+### Day 75 - 02-03-2021
+- started a vue project for a simple planner app
+- used the json server to atch an API locally
+- learned about asynch JS and the fetch API
+- explored some API's online to decide on which fun API to use in the future
+
+### 76 - 02-04-2021
 - 
 
 

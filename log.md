@@ -381,6 +381,11 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - explored some API's online to decide on which fun API to use in the future
 
 ### 76 - 02-04-2021
+- added functionality to add, edit and remove information in the database
+- added event listeners to keep the webiste in synch with the database at any time
+- learned again how to use the fetch methods
+
+### 77 - 02-05-2021
 - 
 
 

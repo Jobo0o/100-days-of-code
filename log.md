@@ -386,6 +386,11 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - learned again how to use the fetch methods
 
 ### 77 - 02-05-2021
+- learned about the difference between the vue composition API & the Options API
+- used the fetch method to update data in an array @submit 
+- created a compositions API in a new porject
+
+### 78 - 02-06-2021
 - 
 
 

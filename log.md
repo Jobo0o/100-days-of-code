@@ -391,6 +391,15 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - created a compositions API in a new porject
 
 ### 78 - 02-06-2021
+- used the composition API in Vue3 to bind data with vmodel & ref
+- solved challenges on codewars
+
+### 79 - 02-07-2021
+- got more familiar with the new composition API in Vue 3
+- used ref & reactive to understand their difference
+- used different lifecycle hooks inside the setup function to display the difference here
+
+### Day 80 - 02-08-2021
 - 
 
 

@@ -400,7 +400,22 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - used different lifecycle hooks inside the setup function to display the difference here
 
 ### Day 80 - 02-08-2021
-- 
+- continued with the vue3 course and learned about composables or mixins
+- practiced JS syntax inside some of the components
+- started the blog project
+
+### Day 81 - 02-09-2021
+- continued with the Blog project inside the vue3 course
+- practiced some server syntax inside the project to POST and GET data from the server
+- used the data in order to conditionally display data
+
+ ### Day 82 - 02-10-2021
+ - finished the Blog project inside the vue3 course
+ - added a tag cloud by cycling through data on a server
+ - got an introduction to firebase and firestore
+ 
+ ### Day 83 - 02-11-2021
+ - 
 
 
 

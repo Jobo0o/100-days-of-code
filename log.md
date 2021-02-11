@@ -415,6 +415,11 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
  - got an introduction to firebase and firestore
  
  ### Day 83 - 02-11-2021
+ - started a live chat project with vue3 & firebase user auth
+ - created the login page & the signup page 
+ - connected the project to firebase
+ 
+ ### Day 84 - 02-12-2021
  - 
 
 

@@ -420,6 +420,17 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
  - connected the project to firebase
  
  ### Day 84 - 02-12-2021
+ - paused
+ 
+ ### Day 85 - 02-13-2021
+ - solved challenges on Codewars
+ - read about data security rules on firebase
+ 
+ ### Day 86 - 02-14-2021
+ - solved challenges on Codewars
+ - reaches 6kyu rank on Codewars
+ 
+ ### Day 87 - 02-15-2021
  - 
 
 

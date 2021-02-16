@@ -431,6 +431,13 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
  - reaches 6kyu rank on Codewars
  
  ### Day 87 - 02-15-2021
+ - added signup functionality with firebase
+ - outputting the error message in acase of an error
+ - read Eloquent Javascript
+ 
+ ### 88 - 02-16-2021
+ - added Login functionality to the chat room
+ - output the error in the form in case the server responds
  - 
 
 

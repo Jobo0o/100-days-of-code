@@ -438,7 +438,20 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
  ### 88 - 02-16-2021
  - added Login functionality to the chat room
  - output the error in the form in case the server responds
- - 
+ 
+ ### Day 89 - 02-17-2021
+ - added auth guards to prevent going back for logged out users
+ - sent messages to the console that a user is typing in
+
+### Day 90 - 02-18-2021
+- added auth guards to prevent going back forlogged in users
+- connected the project to the firestore
+- new messages are show in a chatroom component
+- chatwindow is automatically scrolling down when a new message is sent
+- reduced the amount of snapshots through a watcher
+
+### Day 91 - 02-19-2021
+- 
 
 
 

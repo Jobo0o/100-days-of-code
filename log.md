@@ -451,6 +451,11 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - reduced the amount of snapshots through a watcher
 
 ### Day 91 - 02-19-2021
+- finished the live chat project
+- implemented security rules that prevent external reading of the API key
+- launched the service on firebase hosting
+
+### Day 92 - 02-20-2021
 - 
 
 

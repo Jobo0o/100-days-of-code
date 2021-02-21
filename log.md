@@ -456,6 +456,16 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - launched the service on firebase hosting
 
 ### Day 92 - 02-20-2021
+- learned how to set up a new complete firebase project from scratch
+- leanred how to implement firebase storage into an existing project and how to use it
+- read in the firebase documentation about the different functions that firebase is providing
+
+### Day 93 - 02-21-2021
+- read in the ELoquent JavaScriupt book
+- solved challenges on Codewars to get more familiar with standard JS syntax
+- reaad in the Vue documentation about the composition API and its different use cases
+
+### Day 94 - 02-22-2021
 - 
 
 

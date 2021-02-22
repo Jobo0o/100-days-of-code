@@ -466,6 +466,12 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - reaad in the Vue documentation about the composition API and its different use cases
 
 ### Day 94 - 02-22-2021
+- started a new porject based on vue3 & firebase
+- I initially wanted to use Vuetify as a UI component libary, but it still does not support vue3 (in fact, many UI frameworks still dont)
+- tailwind css has a working workaround for vue3
+- I started to use tailwind for my project
+
+### Day 95 - 02-23-2021
 - 
 
 

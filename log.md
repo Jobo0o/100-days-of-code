@@ -472,6 +472,11 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - I started to use tailwind for my project
 
 ### Day 95 - 02-23-2021
+- completed a short introduction video series on tailwindcss
+- styled a basic recipe website using tailwinds classes
+- I will start applzing it to my own project afterwards
+
+### Day 96 - 02-24-2021
 - 
 
 

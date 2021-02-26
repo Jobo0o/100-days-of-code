@@ -477,6 +477,22 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - I will start applzing it to my own project afterwards
 
 ### Day 96 - 02-24-2021
+- started a project to create a portfolio website
+- added a hero section fitting to the viewport
+- added the overall structure of the page using vue and tailwindcss
+
+### Day 97 - 02-25-2021
+- worked on the portfolio website
+- tried to make the header stick to the top after a certain scroll behaviour
+- could not quite make it work
+- landed my first project to create a website for a Hotel with a Fitness Studio
+
+### Day 98 - 02-26-2021
+- attended the yearly Vue conference
+- learned about hoiw to integrate Storybloks with Vue and Vue Storefront
+- learned how to make a headless CMS work with Vue
+
+### Day 99 - 02-27-2021
 - 
 
 

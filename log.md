@@ -493,6 +493,21 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - learned how to make a headless CMS work with Vue
 
 ### Day 99 - 02-27-2021
+- read in the Eloquent JavaScript book
+- learned about how to potentially use wordpress as a headless CMS for my contract
+- watched the Vue Conference
+
+### Day 100 - 02-28-2021
+- final day of my 100DaysOfCOde challenge
+- I did a recap about what I learned since 100 Days ago
+- from almost no knowlesge to my first contract, I am very happy that I have chosen this path
+- I decided to continue with round 2 of the challenge to keep on learning
+
+
+# Round 2
+-----------------------------------------------------------------------------------------------------------------------
+
+### D1R2 - 03-01-2021
 - 
 
 

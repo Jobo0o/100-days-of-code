@@ -507,7 +507,13 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 # Round 2
 -----------------------------------------------------------------------------------------------------------------------
 
-### D1R2 - 03-01-2021
+### D1R2 - 03-13-2021
+- started a bit later with round 2 because I needed a break to free up my head
+- started with my first PR on Github and searched for good first issues
+- solved Katas on Codewars
+- tried to read Code that other more experienced Coders wrote
+
+### D2R2 - 03-14-2021
 - 
 
 

@@ -514,6 +514,10 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - tried to read Code that other more experienced Coders wrote
 
 ### D2R2 - 03-14-2021
+- solved a project euler challenge summing up all multiples of 3 & 5 beloew a given number
+- searched for new projects to do in the coming 98 Days
+
+### D3R2 - 03-15-2021
 - 
 
 

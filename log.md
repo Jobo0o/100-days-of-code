@@ -518,7 +518,11 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - searched for new projects to do in the coming 98 Days
 
 ### D3R2 - 03-15-2021
-- 
+- listened to the CodeNewbies Podcast 
+- found a project that created a Dev.to clone with Vue and tailwind
+- forked the porject to read and understand the code that was written
+
+### D4R2 - 03-16-2021
 
 
 

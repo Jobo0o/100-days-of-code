@@ -523,7 +523,21 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - forked the porject to read and understand the code that was written
 
 ### D4R2 - 03-16-2021
+- completed challenges on Codewars
+- listened to the Codenewbie Podcast to learn about others carreers in Code
 
+### D5R2 - 03-17-2021
+- prepared the portfolio section on the portfolio website
+- created cards that grow on hover for each project
+- styled the cards to make them appear in a grid
 
+### D6R2 - 03-18-2021
+- searched for a way so autoimplement my Netlify sites to the portfolio
+- found the Netlify API as a way to integrate it
+- read in the documnentation of Netlify to find out how it would work
+- read about ways to call an API and convert the data into useable strings and pictures
+
+### D7R2 - 03-19-2021
+- 
 
 

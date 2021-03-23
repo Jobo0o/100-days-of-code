@@ -538,6 +538,16 @@ https://www.freecodecamp.org/certification/fcc3f715efe-d4ee-4420-b227-dba19b0c78
 - read about ways to call an API and convert the data into useable strings and pictures
 
 ### D7R2 - 03-19-2021
+- spend some time to find out which tech stack I want to use in the future
+- solved some Codewars challenges
+
+### D8R2 - 03-22-2021
+- further evaluated how to proceed in my coding journey
+
+### D9R2 - 03-23-2021
+- played with the NASA Astronomy Photo of the Day API
+- tried to implement it into an existing project
+- I will probably implement it into another service
+
+### D10R2 - 03-24-2021
 - 
-
-
